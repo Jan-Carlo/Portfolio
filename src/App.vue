@@ -41,7 +41,6 @@
     <router-link to="/" class="text-gray-300 hover:text-white">Home</router-link>
     <router-link to="/about" class="text-gray-300 hover:text-white">About</router-link>
     <router-link to="/portfolio" class="text-gray-300 hover:text-white">Project</router-link>
-    <router-link to="/blog" class="text-gray-300 hover:text-white">Blog</router-link>
     <router-link to="/contact" class="text-gray-300 hover:text-white">Contact</router-link>
   </nav>
 </footer>
